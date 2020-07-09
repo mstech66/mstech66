@@ -1,16 +1,26 @@
-### Hi there 👋
+```
+$ cat /etc/issue
+                        _   _                 
+  _ __ ___   __ _ _ __ | |_| |__   __ _ _ __  
+  | '_ ` _ \ / _` | '_ \| __| '_ \ / _` | '_ \ 
+  | | | | | | (_| | | | | |_| | | | (_| | | | |
+  |_| |_| |_|\__,_|_| |_|\__|_| |_|\__,_|_| |_|
+                                             
 
-<!--
-**mstech66/mstech66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ uname -a
+Human manthan-mevada #1 SMP Thu Jun 30 07:05:35 UTC ???? x86_64 HE/Him
 
-Here are some ideas to get you started:
+$ cat /etc/profile
+IG=__m_a_n_t_h_a_n__
+TWITTER=manthan_mevada
+GIT=mstech66
+KEYBASE=<epam>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat bio.txt
+Much <3 for front-end development and design. Want to be Js Dev and good with Data Structures
+I develop projects in my mean time in which some are useful and some are not but all are fun for sure :D
+
+I love books and video games. Also, Chai. I work at <epam>, too. Follow me on IG or Twitter.
+
+All things material <3
+```

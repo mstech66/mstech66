@@ -17,7 +17,7 @@ GIT=mstech66
 KEYBASE=<epam>
 
 $ cat bio.txt
-Much <3 for front-end development and design :D Been working with JavaScript 🖤 Flutter 💙 Angular 🧡
+Much <3 for front-end development and design :D Been working with JavaScript 💛 Flutter 💜 Angular 🧡 & React 💙
 I develop projects in my mean time in which some are useful and some are not but all are fun for sure :D
 
 I love books and video games. Sucker for Chai ☕ I work at <epam>, too. Follow me on IG or Twitter.

@@ -1,4 +1,4 @@
-```
+```text
 $ cat /etc/issue
                         _   _                 
   _ __ ___   __ _ _ __ | |_| |__   __ _ _ __  
@@ -17,10 +17,23 @@ GIT=mstech66
 KEYBASE=<epam>
 
 $ cat bio.txt
-Much <3 for front-end development and design :D Been working with JavaScript 💛 Flutter 💜 Angular 🧡 & React 💙
-I develop projects in my mean time in which some are useful and some are not but all are fun for sure :D
+Software engineer with a love for building things that look good
+and work well. <3
 
-I love books and video games. Sucker for Chai ☕ I work at <epam>, too. Follow me on IG or Twitter.
+I work across software engineering and design — mostly with React, Next.js, TypeScript, JavaScript, and Flutter.
+
+Lately I've been exploring AI-powered development, automation,
+developer tooling, and ways to make software engineering a little
+smarter and a lot more fun.
+
+I build things in my free time too — some useful, some experimental,
+and some completely unnecessary. All of them are fun. :D
+
+I love books, video games, design, and a good cup of Chai ☕
+I also enjoy turning random ideas into little projects.
+
+I work at <epam>, too.
 
 All things material <3
 ```
+
